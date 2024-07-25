@@ -1,0 +1,1 @@
+Yes for loops can exist inside for loops making it nested for loops
