@@ -1,0 +1,1 @@
+The purpose of range functionality in go language is to iterate over all of elements of arrays and slices.
