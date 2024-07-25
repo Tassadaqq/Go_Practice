@@ -1,0 +1,5 @@
+In a Local variable its value is only accessible within the local function where the variable has been initialized.
+
+In a Global variable its value is accessible by the whole programs functions for use we initialize global variables outside of all the functions
+
+However, for example if we initialize a global variable "var a int=21" and a local variable "var a int=2" and execute the program the precedence of the local variable will be higher than the global variable.
