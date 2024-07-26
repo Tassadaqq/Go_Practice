@@ -1,0 +1,3 @@
+while loop may be used when we might not know the number of iterations for example we often use while(true)
+
+for loop is only used when we know the number of iterations 
