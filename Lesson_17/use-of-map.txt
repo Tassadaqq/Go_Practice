@@ -1,0 +1,2 @@
+we can use a map to store key-value pairs in order to store data efficiently . For example, we can create a key of country and in value we store the capital like 
+countrymap["Pakistan"]=["Islamabad"]
