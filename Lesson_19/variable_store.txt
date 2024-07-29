@@ -1,0 +1,8 @@
+//Variables are stored in the memory of the computer. When we declare a variable it allocates a memory to that variable.
+package main
+import "fmt"
+func main() {
+	var x int = 5
+	fmt.Printf("Address of variable x: %x\n", &x)
+	fmt.Printf("Value of variable x: %d\n", x)
+}
