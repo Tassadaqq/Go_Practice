@@ -1,0 +1,3 @@
+In classes we have reference types meaning that when we have a reference of an object and if we manipulate that data it will be manipulated in all referred locations.
+
+Where as in struct if we have value types if we modify a struct variable without passing its reference it will not change the other variables.
