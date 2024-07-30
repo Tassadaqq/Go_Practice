@@ -1,0 +1,1 @@
+Channels are a gateway for the go routine functions to communication with each other.
