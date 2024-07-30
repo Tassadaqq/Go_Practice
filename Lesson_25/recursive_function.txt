@@ -1,0 +1,1 @@
+A function is recuesive when whithin the function it carries a base condition and recursively calls itself to achieve a particular behaviour to solve a problem.
