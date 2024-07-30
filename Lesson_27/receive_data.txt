@@ -1,0 +1,2 @@
+We can receive data from a channel by teh following
+msg:=<-channel_data
