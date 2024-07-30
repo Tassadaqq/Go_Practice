@@ -1,0 +1,1 @@
+A go routine is more like a lightweight thread .It focuses on excuting a task in a simultaneous manner.This is used to achieve concurrency.
