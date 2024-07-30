@@ -1,0 +1,1 @@
+Concurrency is when we are doing multiple tasks in a time. For example, like in a multiplayer game multiple players play to achieve a single common goal. This is used to achieve efficiecy in code.
