@@ -1,0 +1,1 @@
+We can create a go function when calling a function we use go keyword before the call so that along with other task the goroutine can run concurrently.
