@@ -1,1 +1,2 @@
-We can send data in a channels by using "<-"
+We can send data in a channels by using 
+channel_data<-data
