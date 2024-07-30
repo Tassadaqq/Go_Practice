@@ -1,0 +1,1 @@
+We can send data in a channels by using "<-"
